@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: fastapi_skywalking_middleware
+Version: 0.8.0
+Summary: A FastAPI Middleware of Skywalking(APM) to trace your service method calls.
+Home-page: https://github.com/sunhailin-Leo/fastapi_skywalking_middleware
+Author: sunhailin-Leo
+Author-email: 379978424@qq.com
+License: MIT
+Keywords: fastapi,apache-skywalking,skywalking,middleware
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Software Development :: Libraries
+License-File: LICENSE
