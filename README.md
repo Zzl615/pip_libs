@@ -1,2 +1,6 @@
-# pip_libs
-Some Librarys in Python
+# Python Libraries
+
+some libraries that I find useful in daily work
+
+## How To Packaging and Distribution
+
